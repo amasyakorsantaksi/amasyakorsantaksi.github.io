@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Amasya Korsan Taksi | Merzifon Havalimanı ve Yalıboyu</title>
+  <link href="https://amasyakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+  <link href="https://amasyakorsantaksi.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://pubsubhubbub.appspot.com/" rel="hub"/>
+  <id>https://amasyakorsantaksi.github.io/</id>
+  <updated>2026-11-18T20:26:26.994Z</updated>
+  <author><name>Amasya Korsan Taksi</name></author>
+  <entry>
+    <title>Amasya Korsan Taksi | Merzifon Havalimanı ve Yalıboyu</title>
+    <link href="https://amasyakorsantaksi.github.io/" rel="alternate" type="text/html"/>
+    <id>https://amasyakorsantaksi.github.io/</id>
+    <updated>2026-11-18T20:26:26.994Z</updated>
+    <summary>Amasya korsan taksi: Merzifon Havalimanı merkezden 51 km, Yalıboyu evleri ve Kral Kaya Mezarları, Borabay Gölü, Taşova, Suluova ve Göynücek yolu. 7/24.</summary>
+  </entry>
+</feed>
